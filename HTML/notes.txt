@@ -1,0 +1,34 @@
+download vs code
+download and install git,  git -v
+create an account in github
+
+.......................................
+Open folder--> goto path---> cmd ---> code.
+
+Extensions---> Material Icon Theme by Pkief.
+
+hyper==> hyper text markup language started in 1992 by CERN
+GML(generalized ML)=>SGML(standard GML)=>HTML
+Current version of HTML is HTML5
+HTML3---> p, headings,a,img
+HTML---->tables,lists,forms,media
+HTML5---->advanced-->semantic, dragn drop,canvas, geolocation.
+
+HTMl is used for the content or structure of the web page. it includes links, tables,data,forms,images,media etc..,
+
+everything in HTML is done by tags.
+<tagname>---> open tag
+</tagname> ---> close tag.
+
+whole HTML is in HTML element. Inside HTMl element , you will have head and body elements.
+
+tag vs element
+<h1> ---> h1 open tag
+   content
+   </h1> ---> h1 close tag
+
+ element contains opentag+content+closetag.
+ In vs code there are some shortcuts Knowns as emmets
+press shift+! and enter or html:5 enter.
+<br>---> means break the line that mean it we see the text in next line.{self closing tag}
+<hr> ---> means horizantal line a line will devide the sentence.
