@@ -32,3 +32,4 @@ tag vs element
 press shift+! and enter or html:5 enter.
 <br>---> means break the line that mean it we see the text in next line.{self closing tag}
 <hr> ---> means horizantal line a line will devide the sentence.
+In vs code for horizantal line we have to use "word wrap" go to settings search for word wrap and on the feature.

@@ -1,0 +1,21 @@
+formatting tags are used to format the text.
+
+br- break the line.
+hr- horizantal line.
+b- b is used to make the text bold.
+strong- strong tag is used to make text bold.
+i- inside i tag the text will get italic.
+em- same as italic tag.
+u- u tag used to underline the text.
+del- del tag is used to strike the text or refer the text.
+in the old we are used strike-tag insted of that now we re using del-tag.
+ins- it used for when we del the tag instead of that place ins tag is used.
+sup- it used to give the letter in upper line. ex: a sqaure(2).
+sub- it is used to give the letter in down line.
+pre- pre tag is used how we write in code it will shows same in the live server.
+mark- it is used to highlight the text.
+
+code- it is used to show the text professionally.
+align="centre"- the text or code we can get in centre, this only used in css.
+marquee- it is used to move the words or we can see in govt sites it is used in css.
+
